@@ -45,9 +45,9 @@ Automated key incident response processes using Python, reducing response time b
 
 Are you looking for a cybersecurity expert to help protect your systems? Get in touch!
 
-- **Email:** [your-email@example.com](mailto:your-abdulsalamolarinoyebashir@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **Email:** [abdulsalamolarinoyebashir@gmail.com](abdulsalamolarinoyebashir@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **GitHub:** [GitHub Profile](https://github.com/BashLaw-Cyber/Cybersecurity-Portfolio)
 
 ---
 
