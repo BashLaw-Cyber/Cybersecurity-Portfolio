@@ -68,8 +68,8 @@ I offer a wide range of services to ensure the security of your business:
 ## **Projects**
 
 Here are some of the projects I have worked on:
-### **Detection Lab
-### **SOC Automation Project
+### **Detection Lab**
+### **SOC Automation Project**
 
 ---
 
