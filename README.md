@@ -12,7 +12,7 @@ I am a skilled cybersecurity analyst who thrives on solving complex problems and
   
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/BashLaw-Cyber/Security-Audit-">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">SOC Automation Lab</a>|
