@@ -1,4 +1,4 @@
-# **Cybersecurity Analyst**
+# **I'm BashLaw**
 
 Welcome to my portfolio page! I am a passionate cybersecurity analyst, with a focus on problem-solving and protecting systems from various digital threats. With a strong background in cybersecurity techniques, analysis, and threat detection, I am committed to securing organizations' infrastructures from potential cyber attacks.
 
@@ -8,9 +8,48 @@ Welcome to my portfolio page! I am a passionate cybersecurity analyst, with a fo
 
 I am a skilled cybersecurity analyst who thrives on solving complex problems and enhancing security. My experience includes working with various cybersecurity tools, monitoring networks, and detecting threats. I am dedicated to continuous learning and staying updated on the latest security vulnerabilities and best practices.
 
-- **Skills:** Network Security, Threat Analysis, Vulnerability Assessments, Penetration Testing
-- **Tools:** Wireshark, Metasploit, Burp Suite, Nessus, Splunk
-- **Certifications:** CompTIA Security+, Certified Ethical Hacker (CEH), Cisco Certified Network Associate (CCNA)
+## **Skills:**
+  
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## **Tools:**
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+## **Certifications:**
+<div>
+<img src="https://img.shields.io/badge/-Coursera%20Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/-Huawei%20HCIA-FF0000?&style=for-the-badge&logo=Huawei&logoColor=white" />
+<img src="https://img.shields.io/badge/-CC-00BFFF?&style=for-the-badge&logo=ISC2&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Cisco%20Cybersecurity%20Essentials-00BFFF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Ethical%20Hacking-00BFFF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Network%20Security%20and%20Support-00BFFF?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
 
 ---
 
@@ -29,15 +68,8 @@ I offer a wide range of services to ensure the security of your business:
 ## **Projects**
 
 Here are some of the projects I have worked on:
-
-### **1. Threat Detection System**
-Developed and implemented a network intrusion detection system using Snort, capable of identifying and mitigating various cyber attacks.
-
-### **2. Vulnerability Assessment for a Financial Institution**
-Performed an in-depth vulnerability assessment for a financial institution, identifying critical flaws in their infrastructure and providing recommendations for remediation.
-
-### **3. Incident Response Automation**
-Automated key incident response processes using Python, reducing response time by 40% and improving efficiency.
+### **Detection Lab
+### **SOC Automation Project
 
 ---
 
@@ -46,7 +78,7 @@ Automated key incident response processes using Python, reducing response time b
 Are you looking for a cybersecurity expert to help protect your systems? Get in touch!
 
 - **Email:** [abdulsalamolarinoyebashir@gmail.com](abdulsalamolarinoyebashir@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/bashir-abdulsalam-aa2b18246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub:** [GitHub Profile](https://github.com/BashLaw-Cyber/Cybersecurity-Portfolio)
 
 ---
